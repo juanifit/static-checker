@@ -15,7 +15,7 @@ Example:
 Not perfect, but raises confidence level a bit.
 
 
-Requires the following linux utilities to be installed: 
+Requires the following command line utilities to be installed: 
 - ag
 - sed
 - sort
