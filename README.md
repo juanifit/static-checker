@@ -6,7 +6,8 @@ Gathers all the keys or functions of a keyword "x" called within a repository, c
 
 At the command line:
 
-`node checkModuleFunctions.js [keyword/moduleName] [path to repository to check] [path to module1] [path to module2]
+`node checkModuleFunctions.js [keyword/moduleName] [path to repository to check] [path to module1] [path to module2]`
+
 
 Example: 
 `node checkModuleFunctions.js async '/path/to/repository' '/path/to/oldModule' '/path/to/newModule'`
